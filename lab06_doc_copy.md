@@ -1,11 +1,3 @@
- Laboratorul 6 - Sumatoare \[CS Open CourseWare\]            /\*<!\[CDATA\[\*/var NS='cn1:laboratoare';var JSINFO = {"id":"cn1:laboratoare:06","namespace":"cn1:laboratoare","isadmin":0,"isauth":0}; /\*!\]\]>\*/ /\*<!\[CDATA\[\*/MathJax.Hub.Config({ tex2jax: { inlineMath: \[ \["$","$"\], \["\\\\(","\\\\)"\] \], displayMath: \[ \["$$","$$"\], \["\\\\\[","\\\\\]"\] \], processEscapes: true } }); /\*!\]\]>\*/ /\*<!\[CDATA\[\*/ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); /\*!\]\]>\*/ /\*<!\[CDATA\[\*/ var pageTracker = \_gat.\_getTracker("UA-38383934-1"); pageTracker.\_initData(); pageTracker.\_trackPageview(); /\*!\]\]>\*/ 
-
-[![](/courses//res/sigla_cn1.png)](/courses/cn1/)
-
-[Open CourseWare](/courses/)
-
-[Recent changes](/courses/cn1/laboratoare/06?do=recent "Recent changes [R]")[Login](/courses/cn1/laboratoare/06?do=login&sectok=4e61e535f021bba9a88a1f6bee5f3101 "Login")
-
 Laboratorul 6 - Sumatoare
 =========================
 
@@ -359,14 +351,3 @@ Tutoriale
     *   [Link-uri utile](#link-uri_utile)
         
 
-cn1/laboratoare/06.txt · Last modified: 2022/03/19 15:37 by rares.petruc
-
-[Old revisions](/courses/cn1/laboratoare/06?do=revisions "Old revisions [O]")
-
-[Media Manager](/courses/cn1/laboratoare/06?do=media&ns=cn1%3Alaboratoare "Media Manager")[Back to top](#dokuwiki__top "Back to top [T]")
-
-[![CC Attribution-Share Alike 3.0 Unported](/courses/lib/images/license/button/cc-by-sa.png)](http://creativecommons.org/licenses/by-sa/3.0/)
-
-[![www.chimeric.de](/courses/lib/tpl/arctic/images/button-chimeric-de.png)](http://www.chimeric.de "www.chimeric.de") [![Valid CSS](/courses/lib/tpl/arctic/images/button-css.png)](http://jigsaw.w3.org/css-validator/check/referer "Valid CSS") [![Driven by DokuWiki](/courses/lib/tpl/arctic/images/button-dw.png)](http://wiki.splitbrain.org/wiki:dokuwiki "Driven by DokuWiki") [![do yourself a favour and use a real browser - get firefox!!](/courses/lib/tpl/arctic/images/button-firefox.png)](http://www.firefox-browser.de "do yourself a favour and use a real browser - get firefox") [![Recent changes RSS feed](/courses/lib/tpl/arctic/images/button-rss.png)](/courses/feed.php "Recent changes RSS feed") [![Valid XHTML 1.0](/courses/lib/tpl/arctic/images/button-xhtml.png)](http://validator.w3.org/check/referer "Valid XHTML 1.0")
-
-![](/courses/lib/exe/indexer.php?id=cn1%3Alaboratoare%3A06&1647703478)
